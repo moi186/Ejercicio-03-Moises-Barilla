@@ -1,0 +1,22 @@
+* {
+    margin: auto;
+    padding: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.amarillo {
+    color: #FFEA00;
+}
+
+.amarillo:hover {
+    color: #37B700;
+}
+
+.violeta {
+    color: #C101FA;
+}
+
+.violeta:hover {
+    color: #EB1B00;
+}
